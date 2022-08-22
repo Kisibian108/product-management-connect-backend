@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "IPhone 12",
+      "price": 2400000,
+      "description": "New11"
+    },
+    {
+      "id": 2,
+      "name": "IPhone 11",
+      "price": 1560000,
+      "description": "Like new"
+    },
+    {
+      "id": 34123,
+      "name": "fgsdgf",
+      "price": 312,
+      "description": "fdsfsd111"
+    }
+  ]
+}
